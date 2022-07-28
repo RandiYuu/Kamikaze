@@ -1,0 +1,25 @@
+.logo {
+  height: 250px;
+  width: 250px;
+}
+
+img {
+  height: 300px;
+  width: auto;
+}
+
+.navbar {
+  justify-content: space-evenly;
+  border: 5px solid chocolate;
+  height: 60px;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.navbar a {
+  margin-left: 60px;
+  margin-right: 150px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
